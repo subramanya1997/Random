@@ -1,15 +1,5 @@
-# Random and Usefull scripts
-
-Repository for random scripts and notebooks.
-
-1) [How to install jekyll in rbenv using homebrew in MacOS Silicon Chip](how_to_install_jekyll_in_mac_m1.md)
-2) [Python libraries for different tasks](python_env_setup.ipynb)
-3) [PyTorch Distributed training](./DDP)
-4) [Summarising search results using Bing api.](./search-gpt.py)
-
-# License
 BSD 3-Clause License
----
+
 Copyright (c) 2023, Subramanya N
 
 Redistribution and use in source and binary forms, with or without
